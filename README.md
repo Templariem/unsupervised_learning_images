@@ -4,7 +4,7 @@ Un recopilatorio de papers y técnicas de aprendizaje no supervisado aplicado a 
 1. Basic unsupervised learning
 2. Clusters algorithms
 3. Semantic image Segmentation (SiS)
-4. Unsupervised Semantic image Segmentation (SiS)
+4. Unsupervised SiS
 5. SAM
 6. DINO
 7. GroundingDINO
