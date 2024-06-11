@@ -6,7 +6,7 @@ Un recopilatorio de papers y técnicas de aprendizaje no supervisado aplicado a 
 3. Semantic image Segmentation (SiS)
 4. Unsupervised SiS
 5. SAM
-6. DINO
+6. DINO y DINOv2
 7. GroundingDINO
 
 | Title | Description | Tag | Date | Code |
